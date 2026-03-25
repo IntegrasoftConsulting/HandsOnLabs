@@ -1,6 +1,7 @@
 site_name: Laboratorios Integrasoft
 site_description: Documentación y Guías de Laboratorios
 site_author: Tu Nombre
+site_url: https://integrasoftconsulting.github.io/HandsOnLabs/
 
 theme:
   name: material
