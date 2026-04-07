@@ -32,3 +32,4 @@ nav:
   - Inicio: index.md
   - Laboratorios:
     - BDD .NET Core: lab_bdd_netcore_codespaces.md
+    - BDD .NET Core Parte 2: lab_bdd_parte2.md
