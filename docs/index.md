@@ -7,3 +7,4 @@ Aquí encontrarás los recursos, guías y pasos necesarios para completar los ej
 ## Contenido Disponible
 
 - [Laboratorio de BDD con .NET Core y Codespaces](lab_bdd_netcore_codespaces.md)
+- [Laboratorio de BDD parte 2 - Patrón Pagefactory](lab_bdd_parte2.md)
